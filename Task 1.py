@@ -31,6 +31,3 @@ def total_salary(path):
 
 total, average = total_salary("C:\\Users\\maria\\OneDrive\\Documents\\GitHub\\goit-algo-hw-04\\salary.txt")
 print(f"Total salary: {total}, Average salary: {average}")
-
-   
-
